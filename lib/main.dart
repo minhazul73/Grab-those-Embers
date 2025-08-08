@@ -50,7 +50,7 @@ class MyGame extends StatelessWidget {
             final palette = context.watch<Palette>();
 
             return MaterialApp.router(
-              title: 'Endless Runner',
+              title: 'Ember Grabber',
               debugShowCheckedModeBanner: false,
               theme: flutterNesTheme().copyWith(
                 colorScheme: ColorScheme.fromSeed(

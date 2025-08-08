@@ -1,4 +1,4 @@
-name: endless_runner
+name: ember_grabber
 description: A Flame game built with Flutter.
 
 # Prevent accidental publishing to pub.dev.
